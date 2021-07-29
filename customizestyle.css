@@ -1,0 +1,41 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.customize-log-button {
+    color: white;
+    border-radius: 8px;
+    padding: 10px 25px;
+    border: none;
+    background-image: linear-gradient(#E76F51, #E76F51);
+}
+
+.customize-bg-color {
+    background-color: #264653;
+    color: white;
+}
+
+.customize-purchase-button {
+    color: white;
+    border-radius: 8px;
+    padding: 10px 45px;
+    border: none;
+    background-image: linear-gradient(#E76F51, #E76F51);
+}
+
+.customize-read-button {
+    text-decoration: none;
+    color: white;
+    border-radius: 8px;
+    padding: 10px 25px;
+    border: none;
+    background-image: linear-gradient(#E76F51, #E76F51);
+}
+
+.fa-star {
+    font-size: 12px;
+}
+
+.fa-star.fill {
+    color: #E77C40;
+}
